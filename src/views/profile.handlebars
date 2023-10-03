@@ -1,0 +1,34 @@
+<div class="container text-center" id="id-container">
+    <h1>Usuario: {{user.name}}</h1>
+    <h3>Email: {{user.email}}</h3>
+    <h4>ID: <span id="ID">{{user.id}}</span></h4>
+    <button class="btn btn-success my-5" id="btn-change-role">Cambiar Rol</button>
+    <h2 class="text-center h1" >Rol: <span id="role">{{user.role}}</span></h2>
+
+    <div class="my-5">
+        <h3>Subir Foto de Perfil</h3>
+        <input type="file" id="profilePictureInput" class="form-control" name="documents" />
+        <button class="btn btn-primary my-2" id="btn-upload-profile-pic">Subir Foto</button>
+    </div>
+
+    <div class="my-5">
+        <h3>Subir Documentos</h3>
+        <div class="mb-3">
+            <label for="identificationInput" class="form-label">Identificación</label>
+            <input type="file" id="identificationInput" class="form-control" name="documents" />
+            <button class="btn btn-primary my-2" id="btn-upload-identification">Subir Identification</button>
+        </div>
+        <div class="mb-3">
+            <label for="domicileProofInput" class="form-label">Domicilio</label>
+            <input type="file" id="domicileProofInput" class="form-control" name="documents" />
+            <button class="btn btn-primary my-2" id="btn-upload-domicile-proof">Subir Domicilio</button>
+        </div>
+        <div class="mb-3">
+            <label for="accountStatementInput" class="form-label">Comprobante de estado de cuenta</label>
+            <input type="file" id="accountStatementInput" class="form-control" name="documents" />
+            <button class="btn btn-primary my-2" id="btn-upload-account-statement">Subir estado de cuenta</button>
+        </div>
+    </div>
+</div>
+
+<script src="js/profile.js"></script>

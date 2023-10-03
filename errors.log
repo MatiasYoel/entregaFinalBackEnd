@@ -1,0 +1,21 @@
+[33merror[39m: [33mError trying to create product[39m {"code":2,"name":"Product creation failed"}
+[33merror[39m: [33mError trying to create product[39m {"code":2,"name":"Product creation failed"}
+[33merror[39m: [33mError trying to create product[39m {"code":2,"name":"Product creation failed"}
+[33merror[39m: [33m__dirname is not defined[39m
+[33merror[39m: [33mThe "cb" argument must be of type function. Received undefined[39m {"code":"ERR_INVALID_ARG_TYPE"}
+[33merror[39m: [33mThe "cb" argument must be of type function. Received undefined[39m {"code":"ERR_INVALID_ARG_TYPE"}
+[33merror[39m: [33mThe "cb" argument must be of type function. Received undefined[39m {"code":"ERR_INVALID_ARG_TYPE"}
+[33merror[39m: [33mENOENT: no such file or directory, unlink 'M:\backendCoderHouse\39765-programación-backend\cursoBackEnd-39765\uploads\products\1694706076022-Captura de pantalla 2023-09-02 181002.png'[39m {"code":"ENOENT","errno":-4058,"path":"M:\\backendCoderHouse\\39765-programación-backend\\cursoBackEnd-39765\\uploads\\products\\1694706076022-Captura de pantalla 2023-09-02 181002.png","syscall":"unlink"}
+[35mwarning[39m: [35mWARNING FORBIDDEN[39m
+[35mwarning[39m: [35mWARNING FORBIDDEN[39m
+[35mwarning[39m: [35mWARNING FORBIDDEN[39m
+[35mwarning[39m: [35mWARNING FORBIDDEN[39m
+[33merror[39m: [33msendSuccessWithPayload is not defined[39m
+[33merror[39m: [33mENOENT: no such file or directory, unlink 'E:\Cursos 2022\BackEnd CoderHouse\TPFinalBackEndCoderHouse\https:\external-content.duckduckgo.com\iu\?u=https%3A%2F%2Frecetatipica.com%2Fwp-content%2Fuploads%2F2019%2F07%2Fmilanesa-de-pollo-al-horno-180x180.jpg&f=1&nofb=1&ipt=b08b7787eca460bcf57c87f5872c879436a796575d0c82e47ea16da37f6c89f2&ipo=images'[39m {"code":"ENOENT","errno":-4058,"path":"E:\\Cursos 2022\\BackEnd CoderHouse\\TPFinalBackEndCoderHouse\\https:\\external-content.duckduckgo.com\\iu\\?u=https%3A%2F%2Frecetatipica.com%2Fwp-content%2Fuploads%2F2019%2F07%2Fmilanesa-de-pollo-al-horno-180x180.jpg&f=1&nofb=1&ipt=b08b7787eca460bcf57c87f5872c879436a796575d0c82e47ea16da37f6c89f2&ipo=images","syscall":"unlink"}
+[33merror[39m: [33mENOENT: no such file or directory, unlink 'E:\Cursos 2022\BackEnd CoderHouse\TPFinalBackEndCoderHouse\https:\external-content.duckduckgo.com\iu\?u=https%3A%2F%2Frecetatipica.com%2Fwp-content%2Fuploads%2F2019%2F07%2Fmilanesa-de-pollo-al-horno-180x180.jpg&f=1&nofb=1&ipt=b08b7787eca460bcf57c87f5872c879436a796575d0c82e47ea16da37f6c89f2&ipo=images'[39m {"code":"ENOENT","errno":-4058,"path":"E:\\Cursos 2022\\BackEnd CoderHouse\\TPFinalBackEndCoderHouse\\https:\\external-content.duckduckgo.com\\iu\\?u=https%3A%2F%2Frecetatipica.com%2Fwp-content%2Fuploads%2F2019%2F07%2Fmilanesa-de-pollo-al-horno-180x180.jpg&f=1&nofb=1&ipt=b08b7787eca460bcf57c87f5872c879436a796575d0c82e47ea16da37f6c89f2&ipo=images","syscall":"unlink"}
+[33merror[39m: [33mENOENT: no such file or directory, unlink 'E:\Cursos 2022\BackEnd CoderHouse\TPFinalBackEndCoderHouse\http:\dummyimage.com\102x100.png\5fa2dd\ffffff'[39m {"code":"ENOENT","errno":-4058,"path":"E:\\Cursos 2022\\BackEnd CoderHouse\\TPFinalBackEndCoderHouse\\http:\\dummyimage.com\\102x100.png\\5fa2dd\\ffffff","syscall":"unlink"}
+[33merror[39m: [33mres.internalError is not a function[39m
+[33merror[39m: [33mError deleting file: ENOENT: no such file or directory, unlink 'E:\Cursos 2022\BackEnd CoderHouse\TPFinalBackEndCoderHouse\http:\dummyimage.com\102x100.png\5fa2dd\ffffff'[39m
+[33merror[39m: [33mtransport is not defined[39m
+[33merror[39m: [33mtransport is not defined[39m
+[33merror[39m: [33mproduct is not defined[39m

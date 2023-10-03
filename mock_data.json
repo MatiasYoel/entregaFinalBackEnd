@@ -1,0 +1,71 @@
+[
+    {
+      "title": "PANTALON NIÑO ATHLETIC",
+      "description": "Pantalón basico con puño con goma, cintura elástica ajuste con cordón, bolsillos laterales.",
+      "price": 5500,
+      "thumbnails": ["https://www.manelsanchez.com/uploads/media/images/304215-2051-manelsanchez_com1.jpg"],
+      "code": 5643,
+      "stock": 250,
+      "category": "Infantil",
+      "status": true,
+      "owner": "admin"
+    },
+    {
+      "title": "REMERA NUDO MUJER ESTAMPA",
+      "description": "Remera de Mujer manga corta con nudo y estampa en el frente.",
+      "price": 4600,
+      "thumbnails": ["https://cdnlaol.laanonimaonline.com/webapp_webp/images/productos/b/0000024000/24440.webp"],
+      "code": 6346,
+      "stock": 300,
+      "category": "Mujer",
+      "status": true,
+      "owner": "admin"
+    },
+    {
+      "title": "REMERA DEPORTIVA",
+      "description": "Esta remera deportiva se ha creado para los entusiastas del gimnasio y los entrenamientos de fuerza sin distracción.",
+      "price": 6850,
+      "thumbnails": ["https://http2.mlstatic.com/D_NQ_NP_649628-MLA50912086610_072022-O.jpg"],
+      "code": 2324,
+      "stock": 150,
+      "category": "Hombre",
+      "status": true,
+      "owner": "admin"
+    },
+    {
+      "title": "VESTIDO ESTAMPADO VINTAGE",
+      "description": "Vestido de cóctel con estampado vintage para mujer, manga cortas,con vuelo de verano.",
+      "price": 8400,
+      "thumbnails": ["https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61--YC9-vlL._AC_UX425_.jpghttps://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61--YC9-vlL._AC_UX425_.jpg"],
+      "code": 8654,
+      "stock": 200,
+      "category": "Mujer",
+      "id": 4,
+      "status": true,
+      "owner": "admin"
+    },
+    {
+      "title": "REMERA FREEFIRE INFANTIL",
+      "description": "Remera FreeFire Niño, Manga Cortas 100%algodon Cuello redondo.",
+      "price": 3900,
+      "thumbnails": ["https://http2.mlstatic.com/D_NQ_NP_683909-MLA46454463815_062021-O.jpg"],
+      "code": 4321,
+      "stock": 400,
+      "category": "Infantil",
+      "id": 5,
+      "status": true,
+      "owner": "admin"
+    },
+    {
+      "title": "REMERA BASICA HOMBRE",
+      "description": "Remera Basica Hombre, Manga Cortas 100% algodon Cuello redondo Corte Regular.",
+      "price": 4990,
+      "thumbnails": ["https://d3ugyf2ht6aenh.cloudfront.net/stores/144/702/products/remera-hombre-microfribra-negra-frente1-610cb5cbd3ee068e2516364701229138-1024-1024.webp"],
+      "code": 2684,
+      "stock": 50,
+      "category": "Hombre",
+      "id": 6,
+      "status": true,
+      "owner": "admin"
+    }
+  ]
