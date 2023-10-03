@@ -1,6 +1,9 @@
 import dotenv from 'dotenv';
 
-dotenv.config();
+if(NODE_ENV!=="prod"){
+    dotenv.config;
+}
+
 
 export default {
     port: process.env.PORT,
