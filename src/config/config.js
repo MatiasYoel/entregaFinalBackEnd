@@ -1,5 +1,4 @@
 import dotenv from 'dotenv';
-import NODE_ENV from 'node'
 
 if(NODE_ENV!=="prod"){
     dotenv.config();
