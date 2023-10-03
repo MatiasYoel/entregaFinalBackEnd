@@ -1,5 +1,7 @@
-node_modules
-.vscode
-.env
+/node_modules
+/test
+package-lock.json
 mock_data.json
-error.log
+.env
+*.log
+test.js
