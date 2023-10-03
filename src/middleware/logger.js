@@ -9,5 +9,4 @@ export const attachLogger = (req,res,next) =>{
     next();
 }
 
-
 export const getLogger = () => logger.logger;
