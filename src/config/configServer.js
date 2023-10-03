@@ -8,7 +8,7 @@ const url = config.mongoUrl
 const connectToDB = () => {
     try {
         mongoose.connect(url)
-        logger.debug('connected')
+        logger.debug('connected to DB e-commerce')
     } catch (error) {
         logger.error(error);
         
